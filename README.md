@@ -8,5 +8,4 @@ Modelling Personality in Swarm Robotics Based on SPIDER Algorithm - [Link to Dis
 Text-based Adventure Game - [Link to code](Java)
 
 ## Intro to CS
-[final term paper](Intro_to_CS/final_term_paper.pdf)
-
+Assessment of Project: From Case Law to Ratio Decidendi - [Link to final paper](Intro_to_CS/final_term_paper.pdf)
