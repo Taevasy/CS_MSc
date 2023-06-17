@@ -1,4 +1,4 @@
-# CS_MSc
+# CS MSc
 Collection of assignments completed during my MSc in Computer Science studies.
 
 ## MSc Dissertation
@@ -7,6 +7,6 @@ Modelling Personality in Swarm Robotics Based on SPIDER Algorithm - [Link to Dis
 ## Java 
 Text-based Adventure Game - [Link to code](Java)
 
-## Intro to CS - 
+## Intro to CS
 [final term paper](Intro_to_CS.pdf)
 
